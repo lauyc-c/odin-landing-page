@@ -31,6 +31,10 @@ header,
   justify-content: space-between;
 }
 
+.hero {
+  padding: 10vh 10vw;
+}
+
 footer {
   justify-content: center;
 }
