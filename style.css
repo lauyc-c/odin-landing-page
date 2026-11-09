@@ -4,13 +4,10 @@ body {
   font-family: "Roboto", sans-serif;
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
   height: 100vh;
   display: flex;
   flex-direction: column;
-}
-
-body > * {
-  padding: 0 10vw;
 }
 
 section {
@@ -18,15 +15,19 @@ section {
   padding: 5vh 10vw;
 }
 
-header, 
-.hero, 
+nav {
+  padding: 0 10vw;
+}
+
+nav,
+.hero,
 footer {
   background-color: #1f2937;
   display: flex;
   align-items: center;
 }
 
-header, 
+nav,
 .hero {
   justify-content: space-between;
 }
