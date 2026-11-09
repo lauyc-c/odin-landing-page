@@ -68,6 +68,22 @@ button {
   list-style-type: none;
 }
 
+.quote {
+  background-color: #e5e7eb;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 300;
+  font-style: italic;
+  padding: 5vh 20vw;
+}
+
+.quote-source {
+  text-align: right;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+}
+
 .action {
   display: flex;
   color: #f9faf8;
