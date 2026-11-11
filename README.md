@@ -2,6 +2,8 @@
 
 This project is a replication of the landing page in **The Odin Project** curriculum, showcasing the fundamentals of web design and CSS styling.
 
+Live site: https://lauyc-c.github.io/odin-landing-page/
+
 ## Project Overview
 
 The landing page showcases a brief description of Hong Kong for tourists, showing its notable sights and what to do there. It also shows sections for a quote and a call to action.
@@ -15,4 +17,4 @@ The landing page showcases a brief description of Hong Kong for tourists, showin
 ## Attributions
 
 - Images: [Unsplash](https://unsplash.com/) ([Manson](https://unsplash.com/@mansonyms?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Van Thanh](https://unsplash.com/@vanthanh2608?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Alison Pang](https://unsplash.com/@alisonpang?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Rachel T](https://unsplash.com/@rachel2brich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Xander Wegscheider](https://unsplash.com/@xander_wegscheider?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
-- Creator: Cappi Lau
+- Creator: [Cappi Lau](https://github.com/lauyc-c)
