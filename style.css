@@ -37,6 +37,10 @@ nav,
   gap: 72px;
 }
 
+#hero div {
+  max-width: 50%;
+}
+
 footer {
   justify-content: center;
 }
